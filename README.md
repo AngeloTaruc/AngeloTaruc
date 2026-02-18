@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭 I’m currently working on various freelance projects as a full-stack web developer, focusing on creating dynamic and responsive websites.<br><br>👯 I’m looking to collaborate on innovative web development projects, especially those involving full-stack development.<br><br>🤝 I’m looking for help with expanding my expertise in advanced JavaScript frameworks and cloud-based technologies.<br><br>🌱 I’m currently learning React.js, Node.js, and AWS to enhance my full-stack development skills.<br><br>💬 Ask me about PHP, MySQL, and building end-to-end web solutions.<br><br>⚡ Fun fact: I love tackling complex coding challenges and staying up-to-date with the latest tech trends.
+
+Results-driven Full-Stack Developer with experience in designing, developing, and deploying scalable web and mobile applications. Skilled in building end-to-end solutions, from frontend user interfaces to backend APIs and database architecture.
+
+Experienced in developing business-oriented systems, RESTful APIs, and responsive applications using modern development frameworks and best practices. Strong understanding of software development lifecycle (SDLC), system integration, and performance optimization.
+
+Currently expanding expertise in cloud technologies, backend architecture, and scalable distributed systems.
+
+🌱 **Core Technologies:**
+- Frontend: React.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap
+- Backend: Node.js, Express.js, NestJS, PHP
+- Mobile: Flutter
+- Database: PostgreSQL, MySQL, Supabase
+- Tools & Platforms: Git, GitHub, Netlify, Apache
+
+💬 **Areas of Expertise:**
+- Full-Stack Web Application Development
+- REST API Development & Integration
+- Database Design and Optimization
+- System Architecture and Backend Development
+- End-to-End System Implementation
+
+⚡ Strong problem-solving skills with focus on writing clean, maintainable, and scalable code.
 
 
 ## 🌐 Socials:
