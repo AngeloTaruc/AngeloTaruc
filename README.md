@@ -11,6 +11,7 @@ Currently expanding expertise in cloud technologies, backend architecture, and s
 - Backend: Node.js, Express.js, NestJS, PHP
 - Mobile: Flutter
 - Database: PostgreSQL, MySQL, Supabase
+- Hosting / DevOps / Cloud: AWS, Hostinger, Alibaba Cloud
 - Tools & Platforms: Git, GitHub, Netlify, Apache
 
 💬 **Areas of Expertise:**
@@ -21,7 +22,6 @@ Currently expanding expertise in cloud technologies, backend architecture, and s
 - End-to-End System Implementation
 
 ⚡ Strong problem-solving skills with focus on writing clean, maintainable, and scalable code.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelorazor02) 
@@ -60,6 +60,9 @@ Currently expanding expertise in cloud technologies, backend architecture, and s
 ---
 
 ### ☁️ Hosting / DevOps / Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%236733AB.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-%23FF6A00.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
